@@ -9,10 +9,12 @@ Download the latest release [here](https://github.com/Candle5000/Core-Keeper-Aut
 ## 日本語
 
 このページではCore Keeperの釣りを自動化するツール「Core Keeper Auto Fish」を公開しています。
+
 ツールは[AutoHotKey](https://www.autohotkey.com/)というWindows向けマクロ作成用スクリプト言語を用いて作られています。
+
 下記のリンクからダウンロードしたツールを起動し、`Ctrl` + `Shift` + `f`を押すことで有効になります。
 
-[[最新バージョンをダウンロード](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.6/CoreKeeperAutoFish_0-0-6.exe)]
+[[最新バージョンをダウンロード](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.7/CoreKeeperAutoFish_0-0-7.exe)]
 
 ## Thanks to
 * [Fish icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/fish)
