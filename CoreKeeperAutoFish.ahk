@@ -38,18 +38,18 @@ Loop {
                 }
 
                 pixelFound := 0
-                PixelSearch, Px1, Py1, Fx1, Fy1, Fx2, Fy2, 0xDE9325, 1, Fast
+                PixelSearch, Px1, Py1, Fx1, Fy1, Fx2, Fy2, 0xDE9325, 8, Fast
                 If !ErrorLevel
                     pixelFound := 1
                 If !pixelFound {
-                    PixelSearch, Px1, Py1, Fx1, Fy1, Fx2, Fy2, 0xC25D1C, 1, Fast
+                    PixelSearch, Px1, Py1, Fx1, Fy1, Fx2, Fy2, 0xC25D1C, 8, Fast
                     If !ErrorLevel
                         pixelFound := 1
                 }
 
                 If !pixelFound {
                     pixelExFound := 0
-                    PixelSearch, Px2, Py2, Hx1, Hy1, Hx2, Hy2, 0xDAC8C8, 3, Fast
+                    PixelSearch, Px2, Py2, Hx1, Hy1, Hx2, Hy2, 0xDAC8C8, 24, Fast
                     If !ErrorLevel {
                         pixelExFound := 1
                     }
@@ -84,12 +84,12 @@ Loop {
                 }
 
                 pixelFound := 0
-                PixelSearch, Px3, Py3, Rx1, Ry1, Rx2, Ry2, 0x1E2CBE, 1, Fast
+                PixelSearch, Px3, Py3, Rx1, Ry1, Rx2, Ry2, 0x1E2CBE, 8, Fast
                 If !ErrorLevel {
                     pixelFound := 1
                 }
                 If !pixelFound {
-                    PixelSearch, Px3, Py3, Rx1, Ry1, Rx2, Ry2, 0x0B3ACD, 1, Fast
+                    PixelSearch, Px3, Py3, Rx1, Ry1, Rx2, Ry2, 0x0B3ACD, 8, Fast
                     If !ErrorLevel {
                         pixelFound := 1
                     }

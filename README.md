@@ -4,7 +4,7 @@ A repository for the source code and Core Keeper Auto Fish application which aut
 
 Built using [AutoHotKey](https://www.autohotkey.com/) an open-source scripting language for the creation of macros on Windows.
 
-Download the latest release [here](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.8/CoreKeeperAutoFish_0-0-8.exe) and run by pressing `Ctrl` + `Shift` + `f`
+Download the latest release [here](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.9/CoreKeeperAutoFish_0-0-9.exe) and run by pressing `Ctrl` + `Shift` + `f`
 
 ## 日本語
 
@@ -14,7 +14,7 @@ Download the latest release [here](https://github.com/Candle5000/Core-Keeper-Aut
 
 下記のリンクからダウンロードしたツールを起動し、`Ctrl` + `Shift` + `f`を押すことで有効になります。
 
-[[最新バージョンをダウンロード](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.8/CoreKeeperAutoFish_0-0-8.exe)]
+[[最新バージョンをダウンロード](https://github.com/Candle5000/Core-Keeper-Auto-Fish/releases/download/0.0.9/CoreKeeperAutoFish_0-0-9.exe)]
 
 ## Thanks to
 * [Fish icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/fish)
